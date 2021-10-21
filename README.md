@@ -1,2 +1,2 @@
 
-les exos API de cour Créez une application Java avec Spring Boot API du OpenClassroom
+les exos API de cours Créez une application Java avec Spring Boot API du OpenClassroom
